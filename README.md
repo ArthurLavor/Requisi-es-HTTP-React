@@ -5,11 +5,10 @@ Para rodar o projeto localmente, siga estes passos:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
+   git clone https://github.com/ArthurLavor/Requisi-es-HTTP-React
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd Requisi-es-HTTP-React****
    ```
 3. Instale as dependências:
    ```bash
